@@ -7,7 +7,7 @@ Please follow all checkbox in 4 sections below as much as possible. (Tick/Un-tic
 
 ### 1. Tech stack.
 Its best to used our recommended stack as its our product tech stack.
- - [-] Use React.js
+ - [ - ] Use React.js
  - [ ] Use [Typescript](https://www.typescriptlang.org/) as much as possible.
 
 ### 2. Knowledge of frontend architecture
